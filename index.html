@@ -132,7 +132,7 @@
             
 • Microsoft Office365 Business &emsp;• RedHat Linux &emsp;• Firewalls &emsp;• Microsoft Azure &emsp;• CentOS &emsp;
 		  • Network Infrastructure &emsp;• Microsoft Server 2008, 2012 & 2019 &emsp;• Red Hat Ansible &emsp;
-		  • LAN/WAN/VPN &emsp; • Microsoft Hyper-V Server &emsp;• Windows 8,10 & 11 &emsp;• FortiGate / Sophos &emsp;
+		  • LAN/WAN/VPN &emsp; • Microsoft Hyper-V Server &emsp;• Windows 8,10 & 11 &emsp;• FortiGate / Sophos &emsp; &emsp;
 		  • Microsoft Teams &emsp;• VMware vCenter &emsp; • SAN / NAS &emsp; • Active Directory (AD) &emsp; • DNS &emsp;
 		  • Drawing IT Diagrams &emsp; • Computer Hardware Troubleshooting &emsp; • Leadership / Team Work &emsp;• Multitasking
 
