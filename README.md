@@ -98,7 +98,7 @@
               <div class="pb-2 fw-bolder"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Email</div>
             </div>
             <div class="col-sm-7">
-              <div class="pb-2">jins.elias@gmail.com</div>
+              <div class="pb-2">jinselias@gmail.com</div>
 	</div>
             <div class="col-sm-5">
               <div class="pb-2 fw-bolder"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Phone</div>
@@ -130,9 +130,14 @@
 </div>
           <div class="timeline-body px-4 pb-4">
             
-		Microsoft Servers • Windows 10 & 11 • Microsoft Hyper-V Server • Microsoft Office365 Business • Microsoft Teams 
-		• RedHat Linux • CentOS • Ansible • Open VPN • Apple MacOS • Network Infrastructure • Firewalls • FortiGate • Sophos 
-		• Computer Hardware Troubleshooting • LAN/WAN • Drawing IT Diagrams • Preparing Process Manual • Team Work • Leadership • Multitasking.
+• Microsoft Office365 Business 		 • RedHat Linux 		     • Firewalls
+• Microsoft Azure			 • CentOS			     • Network Infrastructure
+• Microsoft Server 2008, 2012 & 2019	 • Red Hat Ansible		     • LAN/WAN/VPN
+• Microsoft Hyper-V Server   		 • Windows 8,10 & 11		     • FortiGate / Sophos
+• Microsoft Teams			 • VMware vCenter		     • SAN / NAS 
+• Active Directory (AD) 		 • DNS				     • Drawing IT Diagrams
+• Computer Hardware Troubleshooting	 • Leadership / Team Work 	     • Multitasking
+
             <div>
 </div>
       
