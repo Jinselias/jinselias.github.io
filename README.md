@@ -2,14 +2,14 @@
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta https-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Jins Elias</title>
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin"/>
-    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" media="print" onload="this.media='all'"/>
+    <link rel="preconnect" href="httpss://fonts.gstatic.com" crossorigin="crossorigin"/>
+    <link rel="preload" as="style" href="httpss://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
+    <link rel="stylesheet" href="httpss://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" media="print" onload="this.media='all'"/>
     <noscript>
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
+      <link rel="stylesheet" href="httpss://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
     </noscript>
     <link href="css/font-awesome/css/all.min.css?ver=1.2.1" rel="stylesheet">
     <link href="css/mdb.min.css?ver=1.2.1" rel="stylesheet">
@@ -66,14 +66,14 @@
               <div class="header-social mb-3 d-print-none" data-aos="zoom-in" data-aos-delay="200">
               <nav role="navigation">
                   <ul class="nav justify-content-center">
-                    <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/jins-elias-8a3259ba/" title="Linkedin"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">linkedin </span></a>
+                    <li class="nav-item"><a class="nav-link" href="httpss://www.linkedin.com/in/jins-elias-8a3259ba/" title="Linkedin"><i class="fab fa-linkedin"></i><span class="menu-title sr-only">linkedin </span></a>
                     </li>
-		    <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/jins.elias" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
+		    <li class="nav-item"><a class="nav-link" href="httpss://www.facebook.com/jins.elias" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
                     </li>
                   </ul>
                 </nav>
               </div>
-              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" href="https://jinselias.github.io/JINS ELIAS.pdf" data-aos="fade-right" data-aos-delay="700">Download CV </a></div>
+              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" href="httpss://jinselias.github.io/JINS ELIAS.pdf" data-aos="fade-right" data-aos-delay="700">Download CV </a></div>
              </div>
           </div>
         </div>
@@ -366,14 +366,14 @@
             </nav>
           </div>
 
-<div class="d-print-none" ><a class="btn btn-outline-primary btn-lg" class="rounded-pill" style="width:160px" href="https://jinselias.github.io/JINS ELIAS.pdf" data-aos="zoom-in" data-aos-delay="700">Download CV </a> </div>   
+<div class="d-print-none" ><a class="btn btn-outline-primary btn-lg" class="rounded-pill" style="width:160px" href="httpss://jinselias.github.io/JINS ELIAS.pdf" data-aos="zoom-in" data-aos-delay="700">Download CV </a> </div>   
           <div class="footer-nav">
             <nav role="navigation">
               <ul class="nav justify-content-center">
 
-		    <li class="nav-item"><p style = "color:blue"><a class="nav-link" href="https://www.linkedin.com/in/jins-elias-8a3259ba/" title="Linkedin"><i class="fab fa-linkedin"></i><span class="menu-title sr-only"> linkedin </p></span></a>
+		    <li class="nav-item"><p style = "color:blue"><a class="nav-link" href="httpss://www.linkedin.com/in/jins-elias-8a3259ba/" title="Linkedin"><i class="fab fa-linkedin"></i><span class="menu-title sr-only"> linkedin </p></span></a>
                     </li>
-		    <li class="nav-item"><p style = "color:blue"><a class="nav-link" href="https://www.facebook.com/jins.elias" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook </p></span></a>
+		    <li class="nav-item"><p style = "color:blue"><a class="nav-link" href="httpss://www.facebook.com/jins.elias" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook </p></span></a>
                     </li>
 
              </ul>
